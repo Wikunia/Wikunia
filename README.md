@@ -1,4 +1,5 @@
 - 🔭 Working on my blog [opensourc.es](https://opensourc.es) and a constraint solver [ConstraintSolver.jl](https://github.com/Wikunia/ConstraintSolver.jl).
+- 👀 Looking for positions in the broad field of mathematical optimization.
 - 🌱 What should I learn? Maybe you can make a PR and just write it in this readme ;)
 - 📫 Reach me via [Twitter](https://twitter.com/Wikunia_de)
 - ⚡ Fun fact: Higher dimensional spheres are spiky!
