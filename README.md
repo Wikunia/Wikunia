@@ -6,4 +6,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Aug 28 - [Housekeeping August 2020](https://opensourc.es/blog/2020-08-28-housekeeping-august-2020/index.html)
+- Aug 12 - [ConstraintSolver.jl Refactoring](https://opensourc.es/blog/2020-08-12-constraint-solver-refactoring/index.html)
+- Aug 04 - [The beginning of Javis.jl](https://opensourc.es/blog/2020-08-04-javis-beginning/index.html)
+- Jul 13 - [Visualizing Pi, Tau and prime numbers](https://opensourc.es/blog/2020-07-13-visualizing-digits/index.html)
+- Jul 13 - [ConstraintSolver.jl Reified constraint](https://opensourc.es/blog/2020-07-13-constraint-solver-reified/index.html)
 <!-- feed end -->
