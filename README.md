@@ -6,9 +6,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Nov 12 - [Javis v0.3: How to animate a Fourier series](https://opensourc.es/blog/2020-11-12-javis-v0.3/)
 - Oct 30 - [Debugging in Julia - Two different ways](https://opensourc.es/blog/2020-10-30-basics-debugging/)
 - Oct 16 - [The Julia Package Manager](https://opensourc.es/blog/2020-10-16-all-about-pkg/)
 - Sep 29 - [Javis v0.2 and the Future](https://opensourc.es/blog/2020-09-29-javis-v0.2-and-future/)
 - Sep 09 - [Javis.jl with Animations.jl](https://opensourc.es/blog/2020-09-09-javis-animations/)
-- Aug 28 - [Housekeeping August 2020](https://opensourc.es/blog/2020-08-28-housekeeping-august-2020/)
 <!-- feed end -->
