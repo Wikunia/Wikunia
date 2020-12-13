@@ -6,9 +6,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Dec 11 - [Constraint Solver: Priority Queue](https://opensourc.es/blog/2020-12-11-constraint-solver-priority-queue/)
 - Nov 29 - [Graph Coloring using Cliques](https://opensourc.es/blog/2020-11-29-constraint-solver-coloring-cliques/)
 - Nov 12 - [Javis v0.3: How to animate a Fourier series](https://opensourc.es/blog/2020-11-12-javis-v0.3/)
 - Oct 30 - [Debugging in Julia - Two different ways](https://opensourc.es/blog/2020-10-30-basics-debugging/)
 - Oct 16 - [The Julia Package Manager](https://opensourc.es/blog/2020-10-16-all-about-pkg/)
-- Sep 29 - [Javis v0.2 and the Future](https://opensourc.es/blog/2020-09-29-javis-v0.2-and-future/)
 <!-- feed end -->
