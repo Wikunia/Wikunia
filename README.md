@@ -6,9 +6,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Feb 14 - [Boolean constraints](https://opensourc.es/blog/2021-02-14-boolean-constraints/)
 - Jan 26 - [Generic bridges](https://opensourc.es/blog/2021-01-26-generic-bridges/)
 - Jan 09 - [Creating bridges with JuMP.jl and MOI.jl](https://opensourc.es/blog/2021-01-09-constraint-solver-bridges/)
 - Dec 11 - [Constraint Solver: Priority Queue](https://opensourc.es/blog/2020-12-11-constraint-solver-priority-queue/)
 - Nov 29 - [Graph Coloring using Cliques](https://opensourc.es/blog/2020-11-29-constraint-solver-coloring-cliques/)
-- Nov 12 - [Javis v0.3: How to animate a Fourier series](https://opensourc.es/blog/2020-11-12-javis-v0.3/)
 <!-- feed end -->
