@@ -6,9 +6,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Apr 17 - [Ghess: How to write a Chess Engine?](https://opensourc.es/blog/2021-04-17-ghess-how-to-write-a-chess-engine/)
 - Mar 21 - [Benchmarking and Profiling Julia Code](https://opensourc.es/blog/2021-03-21-benchmarking-and-profiling-julia-code/)
 - Mar 01 - [Share what you've learned!](https://opensourc.es/blog/2021-03-01-share-what-youve-learned/)
 - Feb 14 - [Boolean constraints](https://opensourc.es/blog/2021-02-14-boolean-constraints/)
 - Jan 26 - [Generic bridges](https://opensourc.es/blog/2021-01-26-generic-bridges/)
-- Jan 09 - [Creating bridges with JuMP.jl and MOI.jl](https://opensourc.es/blog/2021-01-09-constraint-solver-bridges/)
 <!-- feed end -->
