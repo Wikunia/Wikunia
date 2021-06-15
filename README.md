@@ -6,6 +6,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Jun 12 - [
+      First YouTube video created with Javis  
+  ]( https://opensourc.es/blog/2021-06-12-first-javis-video/index.html )
 - Apr 17 - [
       Ghess: How to write a Chess Engine?  
   ]( https://opensourc.es/blog/2021-04-17-ghess-how-to-write-a-chess-engine/index.html )
@@ -18,7 +21,4 @@
 - Feb 14 - [
       Boolean constraints  
   ]( https://opensourc.es/blog/2021-02-14-boolean-constraints/index.html )
-- Jan 26 - [
-      Generic bridges  
-  ]( https://opensourc.es/blog/2021-01-26-generic-bridges/index.html )
 <!-- feed end -->
