@@ -6,6 +6,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Jul 09 - [
+      Master thesis: Minimum degree ordering  
+  ]( https://opensourc.es/blog/2021-07-09-master-thesis-minimum-degree-ordering/index.html )
 - Jun 12 - [
       First YouTube video created with Javis  
   ]( https://opensourc.es/blog/2021-06-12-first-javis-video/index.html )
@@ -18,7 +21,4 @@
 - Mar 01 - [
       Share what you&#39;ve learned&#33;  
   ]( https://opensourc.es/blog/2021-03-01-share-what-youve-learned/index.html )
-- Feb 14 - [
-      Boolean constraints  
-  ]( https://opensourc.es/blog/2021-02-14-boolean-constraints/index.html )
 <!-- feed end -->
