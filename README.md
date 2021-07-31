@@ -6,6 +6,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Jul 31 - [
+      Master thesis: HyperOrdering  
+  ]( https://opensourc.es/blog/2021-07-31-master-thesis-hyperordering/index.html )
 - Jul 09 - [
       Master thesis: Minimum degree ordering  
   ]( https://opensourc.es/blog/2021-07-09-master-thesis-minimum-degree-ordering/index.html )
@@ -18,7 +21,4 @@
 - Mar 21 - [
       Benchmarking and Profiling Julia Code  
   ]( https://opensourc.es/blog/2021-03-21-benchmarking-and-profiling-julia-code/index.html )
-- Mar 01 - [
-      Share what you&#39;ve learned&#33;  
-  ]( https://opensourc.es/blog/2021-03-01-share-what-youve-learned/index.html )
 <!-- feed end -->
