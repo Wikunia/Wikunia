@@ -5,6 +5,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Sep 08 - [
+      Javis.jl examples series: Inverse Kinematics  
+  ]( https://opensourc.es/blog/2021-09-08-javis.jl-examples-series-inverse-kinematics/index.html )
 - Aug 09 - [
       Javis.jl examples series: The chase problem  
   ]( https://opensourc.es/blog/2021-08-09-javis.jl-examples-series-the-chase-problem/index.html )
@@ -17,7 +20,4 @@
 - Jun 12 - [
       First YouTube video created with Javis  
   ]( https://opensourc.es/blog/2021-06-12-first-javis-video/index.html )
-- Apr 17 - [
-      Ghess: How to write a Chess Engine?  
-  ]( https://opensourc.es/blog/2021-04-17-ghess-how-to-write-a-chess-engine/index.html )
 <!-- feed end -->
