@@ -5,6 +5,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Sep 18 - [
+      Javis.jl examples series: Collatz Conjecture  
+  ]( https://opensourc.es/blog/2021-09-18-javis.jl-examples-series-collatz-conjecture/index.html )
 - Sep 08 - [
       Javis.jl examples series: Inverse Kinematics  
   ]( https://opensourc.es/blog/2021-09-08-javis.jl-examples-series-inverse-kinematics/index.html )
@@ -17,7 +20,4 @@
 - Jul 09 - [
       Master thesis: Minimum degree ordering  
   ]( https://opensourc.es/blog/2021-07-09-master-thesis-minimum-degree-ordering/index.html )
-- Jun 12 - [
-      First YouTube video created with Javis  
-  ]( https://opensourc.es/blog/2021-06-12-first-javis-video/index.html )
 <!-- feed end -->
