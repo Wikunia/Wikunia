@@ -5,6 +5,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Oct 25 - [
+      TSP: Greedy approach and using a 1-Tree  
+  ]( https://opensourc.es/blog/2021-10-25-tsp-1tree-and-greedy/index.html )
 - Oct 13 - [
       About me  
   ]( https://opensourc.es/about/index.html )
@@ -17,7 +20,4 @@
 - Sep 08 - [
       Javis.jl examples series: Inverse Kinematics  
   ]( https://opensourc.es/blog/2021-09-08-javis.jl-examples-series-inverse-kinematics/index.html )
-- Aug 09 - [
-      Javis.jl examples series: The chase problem  
-  ]( https://opensourc.es/blog/2021-08-09-javis.jl-examples-series-the-chase-problem/index.html )
 <!-- feed end -->
