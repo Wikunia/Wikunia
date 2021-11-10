@@ -5,6 +5,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Nov 07 - [
+      Bonobo.jl: Branch and Bound  
+  ]( https://opensourc.es/blog/2021-11-07-tsp-branch-and-bound/index.html )
 - Oct 25 - [
       TSP: Greedy approach and using a 1-Tree  
   ]( https://opensourc.es/blog/2021-10-25-tsp-1tree-and-greedy/index.html )
@@ -17,7 +20,4 @@
 - Sep 18 - [
       Javis.jl examples series: Collatz Conjecture  
   ]( https://opensourc.es/blog/2021-09-18-javis.jl-examples-series-collatz-conjecture/index.html )
-- Sep 08 - [
-      Javis.jl examples series: Inverse Kinematics  
-  ]( https://opensourc.es/blog/2021-09-08-javis.jl-examples-series-inverse-kinematics/index.html )
 <!-- feed end -->
