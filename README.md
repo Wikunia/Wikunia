@@ -5,6 +5,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Jan 02 - [
+      Javis: Taxi Trip Visualization  
+  ]( https://opensourc.es/blog/2022-01-02-javis-taxi-trip-visualization/index.html )
 - Nov 07 - [
       Bonobo.jl: Branch and Bound  
   ]( https://opensourc.es/blog/2021-11-07-tsp-branch-and-bound/index.html )
@@ -17,7 +20,4 @@
 - Oct 11 - [
       Matrix multiplication: Performance  
   ]( https://opensourc.es/blog/2021-10-11-matrix-multiplication-performance/index.html )
-- Sep 18 - [
-      Javis.jl examples series: Collatz Conjecture  
-  ]( https://opensourc.es/blog/2021-09-18-javis.jl-examples-series-collatz-conjecture/index.html )
 <!-- feed end -->
