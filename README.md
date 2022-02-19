@@ -5,6 +5,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Feb 16 - [
+      Lessons Learned: A Julia Project Recap  
+  ]( https://opensourc.es/blog/2022-02-16-julia-project-lessons-learned/index.html )
 - Jan 02 - [
       Javis: Taxi Trip Visualization  
   ]( https://opensourc.es/blog/2022-01-02-javis-taxi-trip-visualization/index.html )
@@ -17,7 +20,4 @@
 - Oct 13 - [
       About me  
   ]( https://opensourc.es/about/index.html )
-- Oct 11 - [
-      Matrix multiplication: Performance  
-  ]( https://opensourc.es/blog/2021-10-11-matrix-multiplication-performance/index.html )
 <!-- feed end -->
