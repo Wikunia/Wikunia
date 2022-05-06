@@ -5,6 +5,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- May 06 - [
+      TSPSolver.jl: Using Bonobo.jl to solve our first instance  
+  ]( https://opensourc.es/blog/2022-05-01-tspsolver.jl-using-bonobo.jl-to-solve-our-first-instance/index.html )
 - Feb 16 - [
       Lessons Learned: A Julia Project Recap  
   ]( https://opensourc.es/blog/2022-02-16-julia-project-lessons-learned/index.html )
@@ -17,7 +20,4 @@
 - Oct 25 - [
       TSP: Greedy approach and using a 1-Tree  
   ]( https://opensourc.es/blog/2021-10-25-tsp-1tree-and-greedy/index.html )
-- Oct 13 - [
-      About me  
-  ]( https://opensourc.es/about/index.html )
 <!-- feed end -->
