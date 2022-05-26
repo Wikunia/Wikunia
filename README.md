@@ -1,6 +1,6 @@
-- 🔭 Working on my blog [opensourc.es](https://opensourc.es) an animation library [Javis.jl](https://github.com/Wikunia/Javis.jl) and a constraint solver [ConstraintSolver.jl](https://github.com/Wikunia/ConstraintSolver.jl).
+- 🔭 Working on 3d printed footwear for work and on several open source projects ranging from animations to mathematical optimization in my free time. Blogging about my open source projects on [opensourc.es](https://opensourc.es).
 - 🌱 What should I learn? Maybe you can make a PR and just write it in this readme ;)
-- 📫 Reach me via [Twitter](https://twitter.com/Wikunia_de)
+- 📫 Reach me via [Twitter](https://twitter.com/opensourcesblog)
 - ⚡ Fun fact: The brain is the backend of a plug and play system 
 
 ### Latest Posts
