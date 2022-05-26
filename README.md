@@ -1,4 +1,4 @@
-- 🔭 Working on 3d printed footwear for work and on several open source projects ranging from animations to mathematical optimization in my free time. Blogging about my open source projects on [opensourc.es](https://opensourc.es).
+- 🔭 Working on 3d printed footwear at [Zellerfeld](https://zellerfeld.com) and on several open source projects ranging from animations to mathematical optimization in my free time. Blogging about my open source projects on [opensourc.es](https://opensourc.es).
 - 🌱 What should I learn? Maybe you can make a PR and just write it in this readme ;)
 - 📫 Reach me via [Twitter](https://twitter.com/opensourcesblog)
 - ⚡ Fun fact: The brain is the backend of a plug and play system 
