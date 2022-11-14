@@ -5,6 +5,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Nov 03 - [
+      Graphs.jl: The Myers difference algorithm  
+  ]( https://opensourc.es/blog/2022-11-03-graphs.jl-the-myers-difference-algorithm/index.html )
 - May 28 - [
       TSPSolver.jl: 2-opt  
   ]( https://opensourc.es/blog/2022-05-28-tspsolver.jl-2-opt/index.html )
@@ -17,7 +20,4 @@
 - Jan 02 - [
       Javis: Taxi Trip Visualization  
   ]( https://opensourc.es/blog/2022-01-02-javis-taxi-trip-visualization/index.html )
-- Nov 07 - [
-      Bonobo.jl: Branch and Bound  
-  ]( https://opensourc.es/blog/2021-11-07-tsp-branch-and-bound/index.html )
 <!-- feed end -->
