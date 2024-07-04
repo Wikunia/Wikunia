@@ -5,6 +5,9 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Aug 03 - [
+      Have your own basic OsmAnd map  
+  ]( https://opensourc.es/blog/2023-08-03-have-your-own-basic-osmand-map/index.html )
 - Nov 03 - [
       Graphs.jl: The Myers difference algorithm  
   ]( https://opensourc.es/blog/2022-11-03-graphs.jl-the-myers-difference-algorithm/index.html )
@@ -17,7 +20,4 @@
 - Feb 16 - [
       Lessons Learned: A Julia Project Recap  
   ]( https://opensourc.es/blog/2022-02-16-julia-project-lessons-learned/index.html )
-- Jan 02 - [
-      Javis: Taxi Trip Visualization  
-  ]( https://opensourc.es/blog/2022-01-02-javis-taxi-trip-visualization/index.html )
 <!-- feed end -->
